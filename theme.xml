@@ -509,7 +509,7 @@
 
 		</image>
 		<image name="gamcover">
-			<imageType>cover</imageType>
+			<imageType>physicalmedia</imageType>
 			<pos>0.625 0.74</pos>
 			<origin>0.5 0.5</origin>
 			<maxSize>0.2 0.39</maxSize>
@@ -686,7 +686,7 @@
 			<pos>0.22 0.305</pos>
 			<origin>.5 0.5</origin>
 			<maxSize>.43 0.47</maxSize>
-			<imageType>miximage</imageType>
+			<imageType>cover</imageType>
 			<pillarboxes>false</pillarboxes>
 			<zIndex>8</zIndex>
 		</video>
