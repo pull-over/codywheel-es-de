@@ -39,7 +39,7 @@
         <startupToGamelist>instant</startupToGamelist>
     </transitions>
     
-    <themeName>CodyWheel</themeName>
+    <themeName>CodyWheel-Custom</themeName>
 
     <colorScheme name="mono">
         <label>Black n White</label>
